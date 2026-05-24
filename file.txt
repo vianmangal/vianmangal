@@ -1,3 +1,4 @@
 # test
-cnn
+cnn,rnn,lstm
 deep learning
+ai/ml
